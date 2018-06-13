@@ -71,7 +71,7 @@
                         app:srcCompat="@drawable/logo" />
 
                     <TextView
-                        android:id="@+id/textView"
+                        android:id="@+id/textVie"
                         android:layout_width="0dp"
                         android:layout_height="match_parent"
                         android:layout_weight="1"
