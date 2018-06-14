@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void cardClick(View view) {
         Intent intent = new Intent(Intent.ACTION_VIEW,
-                Uri.parse("https://learncodeonline.in/"));
+                Uri.parse("https://courses.learncodeonline.in"));
         startActivity(intent);
     }
 }
